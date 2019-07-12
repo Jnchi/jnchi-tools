@@ -8,7 +8,7 @@ This repository contains various scripts and tools used for pentesting here at [
 
 ## See also
 
-- https://github.com/NARKOZ/hacker-scripts
+- [Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
 
 [cn-ref]: https://github.com/CyberNinjas
 [satire-wiki]: https://en.wikipedia.org/wiki/Satire#Humour
